@@ -13,7 +13,7 @@ Please support humans.txt (http://humanstxt.org/). It's an initiative for knowin
 	Location: Bern, Switzerland
 	
 ### Licences
-«Rapid Bootstrap» by Niklaus Gerber is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+«Rapid Bootstrap V3» by Niklaus Gerber is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 Based on a work at github.com.
 
 ### Download, Fork, Commit.
